@@ -3,6 +3,7 @@
 
 ## hyper (Hypercore)
 
+* hyper://blog.mauve.moe/slides/agregore-presentation/ #Agregore dweb browser by Mauve 
 * hyper://7d3a5d1afea5bcc829032571904a0fe838657451661908308d2da162ed989def/ TenantsRights
 * hyper://14a3d169b7787fa3abc3ca6685cc524ded890ea2925597a5270260c48487d4ad/ xmunch WIKI | https://wiki.xmunch.com/
 
